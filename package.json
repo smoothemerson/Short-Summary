@@ -1,5 +1,5 @@
 {
-  "homepage": "https://aoba43.github.io/Short-Summary/",
+  "homepage": "https://smoothemerson.github.io/Short-Summary/",
   "name": "nlwia",
   "private": true,
   "version": "0.0.0",
@@ -24,6 +24,7 @@
     "ffmpeg-static": "^5.2.0",
     "fluent-ffmpeg": "^2.1.2",
     "node-wav": "^0.0.2",
+    "onnxruntime-node": "^1.16.3",
     "ytdl-core": "^4.11.5"
   }
 }
