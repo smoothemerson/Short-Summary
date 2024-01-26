@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Short Summary" src="./github/preview.png" width="100%">
+  <img alt="Short Summary" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
