@@ -1,13 +1,9 @@
-<h1 align="center"> Short-Summary </h1>
-
-<p>
-O Short-Summary é uma ferramenta para geração de resumos de vídeos curtos do YouTube. Ele permite aos usuários extrair as informações essenciais de vídeos, tornando mais fácil acompanhar o conteúdo sem a necessidade de assistir o vídeo completo. 
-</p>
+<h1 align="center"> Short Summary </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -17,24 +13,25 @@ O Short-Summary é uma ferramenta para geração de resumos de vídeos curtos do
 <br>
 
 <p align="center">
-  <img alt="projeto Short-Summary" src=".github/preview.png" width="100%">
+  <img alt="Short Summary" src="./github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
-- Inteligências Artificiais
+- Git and Github
+- Artificial Intelligences
+- Figma
 
-## 💻 Projeto
+## 💻 Project
 
-Short Summary é uma plataforma que oferece resumos breves de vídeos curtos do YouTube, economizando seu tempo e destacando o conteúdo mais importante.
+- [Access the finished project, online](https://smoothemerson.github.io/Short-Summary/)
 
-## :memo: Licença
+- Project given by Rocketseat in NLW IA event to practice many technologies
 
-Esse projeto está sob a licença MIT.
+## :memo: License
 
----
+This project is under the MIT license.
