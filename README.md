@@ -26,12 +26,6 @@ This project was developed with the following technologies:
 - Artificial Intelligences
 - Figma
 
-## 💻 Project
-
-- [Access the finished project, online](https://smoothemerson.github.io/Short-Summary/)
-
-- Project given by Rocketseat in NLW IA event to practice many technologies
-
 ## :memo: License
 
 This project is under the MIT license.
